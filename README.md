@@ -7,3 +7,5 @@ Data Analysis - Data anlysis of the indian pines hyperspectral image:
 * Bar plot w.r.t class labels of the hyperspectral image.
 * Box Plot w.r.t the class labels and bands of hyperspecral image.
 * Distribution Plot w.r.t the bands of hyperspecral image
+
+For above implementation please refer https://github.com/aditis1204/Hypespectral_Visualization_Classification/blob/master/Hyperspectral_Analysis(Visualization)_%2B_SVM.ipynb 
